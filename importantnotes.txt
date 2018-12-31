@@ -1,0 +1,5 @@
+IMPORTANT NOTES V1
+
+1. Currently intercepts all webrequests and downloads every file used to load a webpage
+2. Downloads all types of files
+3. Currently downloads a copy of file into root downloads folder. (needs to be changed)

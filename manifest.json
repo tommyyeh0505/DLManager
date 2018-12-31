@@ -1,8 +1,8 @@
 {
-  "name": "TypeDownloader",
+  "name": "DLManager",
   "version": "1.0",
   "description": "Downloads files into respective type files!",
-  "permissions": ["webRequest", "downloads", "<all_urls>" ],
+  "permissions": ["webRequest", "downloads", "webRequestBlocking", "<all_urls>" ],
   "background": {
     "scripts": ["background.js"],
     "persistent": true
